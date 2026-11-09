@@ -29,11 +29,10 @@ npm install
 ## Run the Project
 
 ```bash
-node index.js
-
-Server will run at
-http://localhost:1198
+npm start
 ```
+
+The server runs at `http://localhost:1198` by default.
 
 ## API Endpoint
 
@@ -54,7 +53,7 @@ Returns static application information
 }
 ```
 
-![alt text](image.png)
+![The GET /info endpoint returning the static JSON response in a browser](image.png)
 
 ---
 

@@ -1,17 +1,26 @@
 {
   "name": "express-project-02-static-response-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "A minimal Express.js API that returns static application information as JSON.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/a2rp/express-project-02-static-response-api.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "express",
+    "expressjs",
+    "nodejs",
+    "rest-api",
+    "static-api",
+    "json-api",
+    "beginner-project"
+  ],
+  "author": "Ashish Ranjan",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
