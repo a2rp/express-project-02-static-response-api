@@ -1,11 +1,11 @@
 {
   "name": "express-project-02-static-response-api",
+  "private": true,
   "version": "1.0.0",
   "description": "A minimal Express.js API that returns static application information as JSON.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
